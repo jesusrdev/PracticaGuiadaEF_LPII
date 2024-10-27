@@ -1,5 +1,9 @@
 # Examen Final de Lenguaje de Programación II
 
+## Datos del Alumno
+- Nombre: Jesús Eduardo Rojas Alarcón
+- Código del estudiante: i202330688
+
 ### Captura del controlador
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/dd699677-b3a9-41cb-a301-b6cb5c154ca7">
 
